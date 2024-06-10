@@ -1,0 +1,22 @@
+.branches_mainDiv
+{
+    border: 1px solid #000000;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.branches_mainDiv img
+{
+    width: 70%;
+
+}
+
+.branches_mainDiv hr
+{
+    width: 230px;
+}
+
+.branches_mainDiv h5, .branches_mainDiv p
+{
+
+}
